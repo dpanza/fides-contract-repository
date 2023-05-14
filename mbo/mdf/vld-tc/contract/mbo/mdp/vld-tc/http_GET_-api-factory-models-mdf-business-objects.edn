@@ -1,0 +1,1 @@
+{:consumer {:system "mbo", :domain "mdp", :component "vld-tc"}, :producer {:system "mbo", :domain "mdf", :component "vld-tc"}, :http {:verb :get, :path "/api/factory-models/mdf/business-objects", :headers {:Accept "application/json"}}, :generated-at "2023-04-10T18:49:53.342464", :purpose "", :format :malli, :schema [:map [:attr1 string?]]}
